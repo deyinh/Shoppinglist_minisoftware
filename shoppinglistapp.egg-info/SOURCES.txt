@@ -1,0 +1,12 @@
+setup.py
+shoppinglistapp/app_cli.py
+shoppinglistapp.egg-info/PKG-INFO
+shoppinglistapp.egg-info/SOURCES.txt
+shoppinglistapp.egg-info/dependency_links.txt
+shoppinglistapp.egg-info/not-zip-safe
+shoppinglistapp.egg-info/top_level.txt
+shoppinglistapp/core/__init__.py
+shoppinglistapp/core/appengine.py
+shoppinglistapp/core/errors.py
+shoppinglistapp/core/items.py
+shoppinglistapp/core/shoppinglist.py
